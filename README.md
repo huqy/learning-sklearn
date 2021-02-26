@@ -8,6 +8,7 @@ This folder contains the PDF slides and colab demos for the "Learning Scikit-lea
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/lskl_02) &ndash; for Titanic Kaggle Challenge demo.
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/lskl_03) &ndash; for high-performance machine learning demo.
  - Slides will be uploaded after the class.
+ - [Slides](https://huqy.github.io/learning-sklearn/Learning_sklearn.pdf)
 
 ### Instructor: [Qiyang Hu](mailto:huqy@idre.ucla.edu)
 
