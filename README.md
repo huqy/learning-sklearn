@@ -7,7 +7,7 @@ This folder contains the PDF slides and colab demos for the "Learning Scikit-lea
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJIkd-qrqD8iGtRZfCxQN-hSUhVxVW8FqL1Q) before joining
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/lskl_01) &ndash; for scikit-learn general introduction demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/lskl_02) &ndash; for Titanic Kaggle Challenge demo.
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/lskl_03) &ndash; for neural network demo in scikit-learn vs. keras and pytorch.
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3PuFTHw) &ndash; for neural network demo in scikit-learn vs. keras and pytorch.
  - [Slides](https://huqy.github.io/learning-sklearn/Learning_sklearn_1.pdf)
  - [Video](https://youtu.be/nGmTlSeGdmo)
  - [Survey](https://bit.ly/lskl_survey1)
