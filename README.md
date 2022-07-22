@@ -20,5 +20,6 @@ This folder contains the PDF slides and colab demos for the "Learning Scikit-lea
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpskl_03) &ndash; for scikit-learn with dask and vaex dataframe demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpskl_04) &ndash; for out-of-core learning using scikit-learn demo
  - Slides will be available after the class. 
+ - [Survey](https://bit.ly/lskl_survey2)
 
 #### Instructor: [Qiyang Hu](https://oarc.ucla.edu/people/profiles/qiyang-hu) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:huqy@oarc.ucla.edu)
