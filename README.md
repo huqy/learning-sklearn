@@ -12,7 +12,7 @@ This folder contains the PDF slides and colab demos for the "Learning Scikit-lea
  - [Post-session Survey](https://app.smartsheet.com/b/form/f5710344461f4d93ace0db9ea579ff04)
 
 #### (2) High-Performance Machine Learning Using Scikit-Learn
- - When: August 4, 2023 10am-12:00pm
+ - When: May 16, 2025 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJcrdOupqTsrHdfGk-BQHD6foJjndq7s1T4T) before joining
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpskl_01) &ndash; for scikit-learn with joblib demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpskl_02) &ndash; for scikit-learn with accelerators demo
